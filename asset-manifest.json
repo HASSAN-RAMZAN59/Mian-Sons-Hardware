@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Mian-Sons-Hardware/static/css/main.dc8d0bec.css",
-    "main.js": "/Mian-Sons-Hardware/static/js/main.01a2cea1.js",
+    "main.css": "/Mian-Sons-Hardware/static/css/main.01e6ca95.css",
+    "main.js": "/Mian-Sons-Hardware/static/js/main.78abcd7c.js",
     "static/js/239.653dd8ac.chunk.js": "/Mian-Sons-Hardware/static/js/239.653dd8ac.chunk.js",
     "static/js/977.1d61faeb.chunk.js": "/Mian-Sons-Hardware/static/js/977.1d61faeb.chunk.js",
     "static/js/732.6fd2ede0.chunk.js": "/Mian-Sons-Hardware/static/js/732.6fd2ede0.chunk.js",
     "static/js/453.3cb8fb9a.chunk.js": "/Mian-Sons-Hardware/static/js/453.3cb8fb9a.chunk.js",
     "index.html": "/Mian-Sons-Hardware/index.html",
-    "main.dc8d0bec.css.map": "/Mian-Sons-Hardware/static/css/main.dc8d0bec.css.map",
-    "main.01a2cea1.js.map": "/Mian-Sons-Hardware/static/js/main.01a2cea1.js.map",
+    "main.01e6ca95.css.map": "/Mian-Sons-Hardware/static/css/main.01e6ca95.css.map",
+    "main.78abcd7c.js.map": "/Mian-Sons-Hardware/static/js/main.78abcd7c.js.map",
     "239.653dd8ac.chunk.js.map": "/Mian-Sons-Hardware/static/js/239.653dd8ac.chunk.js.map",
     "977.1d61faeb.chunk.js.map": "/Mian-Sons-Hardware/static/js/977.1d61faeb.chunk.js.map",
     "732.6fd2ede0.chunk.js.map": "/Mian-Sons-Hardware/static/js/732.6fd2ede0.chunk.js.map",
     "453.3cb8fb9a.chunk.js.map": "/Mian-Sons-Hardware/static/js/453.3cb8fb9a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc8d0bec.css",
-    "static/js/main.01a2cea1.js"
+    "static/css/main.01e6ca95.css",
+    "static/js/main.78abcd7c.js"
   ]
 }
