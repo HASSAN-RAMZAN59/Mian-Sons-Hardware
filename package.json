@@ -2,6 +2,7 @@
   "name": "mian-sons-hardware",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://HASSAN-RAMZAN59.github.io/Mian-Sons-Hardware",
   "dependencies": {
     "@headlessui/react": "^2.2.9",
     "@splidejs/react-splide": "^0.7.12",
